@@ -1,4 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Reg no:212223240031
+# Name :Dhivya Dharshini B
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -138,7 +140,8 @@ int main()
 }
 ```
 # OUTPUT
-![cd ex2](https://github.com/user-attachments/assets/481082ac-0d74-4110-9dc8-13191245962a)
+![image](https://github.com/user-attachments/assets/9b643710-0cad-4128-8e37-2796822fbb48)
+
 
 # RESULT
 The lexical analyzer is implemented using lex and the output is verified.

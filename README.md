@@ -1,6 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # Reg no:212223240031
 # Name :Dhivya Dharshini B
+# Date : 5/9/24
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
